@@ -18,4 +18,4 @@ When you are ready to submit:
 2. zip up your folder
 3. upload it
 
-[assessment-for-week-2-version-c-unit-test-problems.zip]: https://github.com/appacademy/assessment-for-week-02-version-c-unit-test-problems/archive/main.zip
+[assessment-for-week-2-version-c-unit-test-problems.zip]: https://github.com/appacademy/assessment-for-sprint-02-version-c-unit-test-problems/archive/main.zip
