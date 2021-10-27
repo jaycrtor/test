@@ -13,4 +13,9 @@ describe('getAverage()', function() {
         assert.strictEqual(getAverage(1.12, 2.23, 3.34, 4.45), '$2.79')
         assert.strictEqual(getAverage(4.99, 9.99, 19.99), '$11.66')
     });
+
+    it('should be an arrow function', function() {
+        const isArrowFn = (fn) => (typeof fn === 'function') && /^[^{]+?=>/.test(fn.toString());
+        assert.equal(isArrowFn(getAverage), true)
+    });
 });
