@@ -2,7 +2,7 @@
 
 ## Usage
 
-1. Download and unzip the skeleton [assessment-for-week-2-version-c-unit-test-problems.zip]
+1. Download and unzip the skeleton from the green button below
 2. Rename the folder to `firstname-lastname-week-2-unit-test-problems`. For
    example, if your name is "Jane Doe", then name your folder
    `jane-doe-week-2-unit-test-problems`
@@ -17,5 +17,3 @@ When you are ready to submit:
 1. delete the `node_modules` directory
 2. zip up your folder
 3. upload it
-
-[assessment-for-week-2-version-c-unit-test-problems.zip]: https://github.com/appacademy/assessment-for-sprint-02-version-c-unit-test-problems/archive/main.zip
